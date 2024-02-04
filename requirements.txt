@@ -1,0 +1,4 @@
+streamlit>=1.20.0
+pandas>=1.5.3
+beautifulsoup4>=4.12.2
+DrissionPage>=4.0.4.4 # DrissionPageの正確なバージョンは確認が必要です
